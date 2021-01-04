@@ -1,0 +1,108 @@
+.main{
+    align-items: center;
+    padding: 50px;
+    padding-left: 300px;
+    
+    background-color: #f0f2f5;
+}
+.phrase{
+    display: inline-block;
+    font-size: 24px;
+    line-height: 28px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    width: 52%; margin: 0px; position: relative;top:
+}
+.login{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px; 
+    color: #fff;position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+}
+.content{
+    padding-bottom: 10px;
+    padding-top: 72px;
+    background-color: #f0f2f5;
+    min-width: 500px;
+    display: block;
+}
+.incon{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 496px;
+    margin: 0 40px;
+    width: auto;
+    position: relative;
+    display: inline-block;
+}
+
+.box{
+    background-color: #fff;
+    border-radius: 8px;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    position: absolute;
+        top: 8px;
+        left: 360px;
+}
+.inputarea{
+    padding: 14px 16px;
+    width: 330px;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    border-radius: 6px;
+    height: 22px;
+    line-height: 16px;
+}
+.margin{
+    padding: 14px 16px;
+   
+    color: #1d2129;
+
+}
+.forgotpwd{
+    margin-top: 16px;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    padding: 130px;
+}
+.line{
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+}
+.newaccount{
+    background-color: #42b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    color: #fff;
+    display: flex;
+}
+.f_pwd{
+    padding-top: 10px;
+}
+.side{
+    padding-left: 30px;
+}
+.centerbutton{
+    padding-left: 100px;
+}
+
+.img{
+    width: 40%;
+    display: block;
+}
